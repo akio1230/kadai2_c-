@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ktc\\Documents\\C\u8A00\u8A9E\\25a31a0001\\chapter3\\kadai2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F3F2670-D5FC-4DF2-B0AA-B0F69B0D7816}|kadai2\\kadai2.vcxproj|C:\\Users\\ktc\\Documents\\C\u8A00\u8A9E\\25a31a0001\\chapter3\\kadai2\\kadai2\\kadai2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0F3F2670-D5FC-4DF2-B0AA-B0F69B0D7816}|kadai2\\kadai2.vcxproj|solutionrelative:kadai2\\kadai2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "kadai2.cpp",
+              "DocumentMoniker": "C:\\Users\\ktc\\Documents\\C\u8A00\u8A9E\\25a31a0001\\chapter3\\kadai2\\kadai2\\kadai2.cpp",
+              "RelativeDocumentMoniker": "kadai2\\kadai2.cpp",
+              "ToolTip": "C:\\Users\\ktc\\Documents\\C\u8A00\u8A9E\\25a31a0001\\chapter3\\kadai2\\kadai2\\kadai2.cpp*",
+              "RelativeToolTip": "kadai2\\kadai2.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-23T08:38:34.219Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
